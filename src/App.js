@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { Chart } from 'chart.js';
 
 function App() {
   return (
